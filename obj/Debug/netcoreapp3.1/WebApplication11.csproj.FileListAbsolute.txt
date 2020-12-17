@@ -31,3 +31,4 @@ D:\PRAfr\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.C
 D:\PRAfr\WebApplication11\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 D:\PRAfr\WebApplication11\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\PRAfr\WebApplication11\obj\Debug\netcoreapp3.1\WebApplication11.csproj.CopyComplete
+D:\PRAfr\WebApplication11\bin\Debug\netcoreapp3.1\ClientApp\angular.json
